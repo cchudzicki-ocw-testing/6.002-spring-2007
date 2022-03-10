@@ -9,13 +9,12 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "**Lecture 24**\n\nLecture notes ([PDF](resources/6002_l24\
-  \ \"Open in a new window.\"))  \nDemonstration: Boost converter ([PDF](resources/demo_28\
-  \ \"Open in a new window.\"))  \nDemonstration: Diode circuits and characteristic\
-  \ ([PDF](resources/demo_25 \"Open in a new window.\"))\n\n**Lecture 25**\n\nLecture\
-  \ notes ([PDF](resources/6002_l25 \"Open in a new window.\"))  \nDemonstration:\
-  \ Crosstalk ([PDF](resources/demo_19 \"Open in a new window.\"))  \nDemonstration:\
-  \ Impedance matching ([PDF](resources/demo_19b \"Open in a new window.\"))"
+related_resources_text: "**Lecture 24**\n\nLecture notes ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l24))\
+  \  \nDemonstration: Boost converter ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_28))\
+  \  \nDemonstration: Diode circuits and characteristic ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_25))\n\
+  \n**Lecture 25**\n\nLecture notes ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l25))\
+  \  \nDemonstration: Crosstalk ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_19))\
+  \  \nDemonstration: Impedance matching ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_19b))"
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 25: Violating the Abstraction Barrier'

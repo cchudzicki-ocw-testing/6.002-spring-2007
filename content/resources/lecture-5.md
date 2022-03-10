@@ -9,10 +9,9 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture notes ([PDF](resources/6002_l5 \"Open in a new window.\"\
-  ))  \nDemonstration: S/SR/SCS models ([PDF](resources/demo_06 \"Open in a new window.\"\
-  ))  \nDemonstration: MOS inverter ([PDF](resources/demo_07 \"Open in a new window.\"\
-  ))"
+related_resources_text: "Lecture notes ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l5))\
+  \  \nDemonstration: S/SR/SCS models ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_06))\
+  \  \nDemonstration: MOS inverter ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_07))"
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Inside the Digital Gate'

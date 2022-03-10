@@ -9,10 +9,9 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture Notes ([PDF](resources/6002_l21 \"Open in a new window.\"\
-  ))  \nDemonstration: Schmitt trigger ([PDF](resources/demo_21 \"Open in a new window.\"\
-  ))  \nDemonstration: Relaxation oscillator ([PDF](resources/demo_21rp \"Open in\
-  \ a new window.\"))"
+related_resources_text: "Lecture Notes ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l21))\
+  \  \nDemonstration: Schmitt trigger ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_21))\
+  \  \nDemonstration: Relaxation oscillator ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_21rp))"
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Op Amps Positive Feedback'

@@ -9,11 +9,9 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture Notes ([PDF](resources/6002_l17 \"Open in a new window.\"\
-  ))  \nDemonstrations: Displays the transfer function of RC lowpass and highpass\
-  \ ([PDF](resources/demo_20 \"Open in a new window.\"))  \nDemonstrations: Displays\
-  \ the transfer function of an RLC bandpass ([PDF](resources/demo_22 \"Open in a\
-  \ new window.\"))"
+related_resources_text: "Lecture Notes ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l17))\
+  \  \nDemonstrations: Displays the transfer function of RC lowpass and highpass ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_20))\
+  \  \nDemonstrations: Displays the transfer function of an RLC bandpass ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_22))"
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 17: The Impedance Model'

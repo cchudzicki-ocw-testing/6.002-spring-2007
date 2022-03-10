@@ -9,10 +9,9 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture Notes ([PDF](resources/6002_l20 \"Open in a new window.\"\
-  ))  \nDemonstration: Integrator and differentiator op-amp ([PDF](resources/demo_17\
-  \ \"Open in a new window.\"))  \nDemonstration: Integrator and differentiator RC\
-  \ network ([PDF](resources/demo_17a \"Open in a new window.\"))"
+related_resources_text: "Lecture Notes ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l20))\
+  \  \nDemonstration: Integrator and differentiator op-amp ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_17))\
+  \  \nDemonstration: Integrator and differentiator RC network ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_17a))"
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 20: Operational Amplifier Circuits'

@@ -9,10 +9,9 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture Notes ([PDF](resources/6002_l16 \"Open in a new window.\"\
-  ))  \nDemonstration: First order sinusoidal steady state ([PDF](resources/demo_13\
-  \ \"Open in a new window.\"))  \nDemonstration: Displays the transfer function of\
-  \ RC lowpass and highpass ([PDF](resources/demo_20 \"Open in a new window.\"))"
+related_resources_text: "Lecture Notes ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l16))\
+  \  \nDemonstration: First order sinusoidal steady state ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_13))\
+  \  \nDemonstration: Displays the transfer function of RC lowpass and highpass ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_20))"
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 16: Sinusoidal Steady State'

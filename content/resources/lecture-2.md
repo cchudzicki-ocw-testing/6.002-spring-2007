@@ -9,9 +9,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture notes ([PDF](resources/6002_l2 \"Open in a new window.\"\
-  ))  \nDemonstration: KVL and KCL ([PDF](resources/demo_02 \"Open in a new window.\"\
-  ))"
+related_resources_text: "Lecture notes ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l2))\
+  \  \nDemonstration: KVL and KCL ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_02))"
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Basic Circuit Analysis Method'

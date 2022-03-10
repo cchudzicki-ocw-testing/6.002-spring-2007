@@ -9,9 +9,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture notes ([PDF](resources/6002_l9 \"Open in a new window.\"\
-  ))  \nDemonstration: S/SR/SCS models ([PDF](resources/demo_06 \"Open in a new window.\"\
-  ))"
+related_resources_text: "Lecture notes ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l9))\
+  \  \nDemonstration: S/SR/SCS models ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_06))"
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 9: Mosfet Amplifier Large Signal Analysis (part 1)'
